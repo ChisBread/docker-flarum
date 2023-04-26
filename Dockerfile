@@ -1,9 +1,9 @@
 FROM alpine:3.16
 
 LABEL description="Simple forum software for building great communities" \
-      maintainer="Magicalex <magicalex@mondedie.fr>"
+      maintainer="ChisBread <chisbread@gmail.com>"
 
-ARG VERSION=v1.3.0
+ARG VERSION=v1.7
 
 ENV GID=991 \
     UID=991 \
